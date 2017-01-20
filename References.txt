@@ -1,0 +1,15 @@
+REFERENCES
+——————————
+
+1. The number of page views required to power the experiment was estimated based on the tool found at:
+
+http://www.evanmiller.org/ab-testing/sample-size.html
+
+
+2. The tool for conducting the sign tests on the evaluation metrics was found at:
+
+http://graphpad.com/quickcalcs/binomial1/
+
+
+3. Much learning and information was obtained from the Udacity slides for Data Analyst Nanodegree: Project 7
+
